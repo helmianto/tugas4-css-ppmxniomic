@@ -1,0 +1,13 @@
+input {
+    font-size: 16px;
+    color: grey !important;
+}
+
+button {
+    color: rgb(182, 133, 43);
+    font-size: 28px;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
